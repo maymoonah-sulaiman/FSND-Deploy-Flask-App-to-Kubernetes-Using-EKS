@@ -1,0 +1,3 @@
+  
+JWT_SECRET=hithere
+LOG_LEVEL=DEBUG
